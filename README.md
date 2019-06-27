@@ -44,7 +44,7 @@ Known to be incompatible with BVA (Basic Vehicle Actions). Tested with BVA v2.01
 
 ## Download
 
-https://github.com/iEns/RealisticVehicleFailure/archive/master.zip
+https://github.com/BrandsPickled/RealisticVehicleFailure/archive/master.zip
 
 ## Installation
 
