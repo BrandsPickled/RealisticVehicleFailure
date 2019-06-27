@@ -137,4 +137,4 @@ RepairWhitelist =
 	"ip:192.168.0.1"			-- not sure if ip whitelist works?
 }
 
-RequiredRepairMechanic = 0
+RequiredRepairMechanic = 0 -- Amount of Mechanics to do /repair
