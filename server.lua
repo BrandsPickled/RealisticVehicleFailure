@@ -43,7 +43,7 @@ end
 AddEventHandler('chatMessage', function(source, _, message)
 	local msg = string.lower(message)
 	local identifier = GetPlayerIdentifiers(source)[1]
-	if MechanicConnected > Config.RequiredRepair.Mechanic then
+	if MechanicConnected > RequiredRepairMechanic then
 		TriggerClientEvent('esx:showNotification', source, 'You cant repair your vehicle because there are' .. Config.RequiredRepair.Mechanic ..  'Mechanics on duty!')
 		return
 	end
