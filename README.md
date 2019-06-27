@@ -21,6 +21,7 @@ This is a mod for FiveM / GTA V that aims to create realistic vehicle failure.
 
 ### Realistic Vehicle Repair
 * Type /repair in the chat to repair your vehicle. There are two types of repairs, depending on your location:
+* You can perform this command when theres less then a certain number of mechanics on duty!
 #### At the mechanic
 * If you are at a mechanic your vehicle will be completely fixed, as good as new.
 * Mechanics are located several places in San Andreas. Look for the blips on the map.
@@ -59,3 +60,8 @@ If you run a FiveM server, you know what to do... but these are the basic instru
 * Refresh + start [foldername]
 
 Where [foldername] is the folder in Resources where the .lua files are located.
+
+* Join our helping Discord:
+* https://discord.gg/XMU96tt
+
+Edited by BrandsPickled
