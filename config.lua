@@ -8,7 +8,8 @@
 --
 --	https://github.com/iEns/RealisticVehicleFailure
 --
-
+--      Edited by BrandsPickled
+--      https://github.com/BrandsPickled/RealisticVehicleFailure/
 
 -- Configuration:
 
